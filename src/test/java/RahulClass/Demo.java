@@ -22,12 +22,13 @@ public class Demo {
 //        System.out.println(driver.getPageSource());  // print pagesource
 
         driver.get("http://yahoo.com");
+
         driver.navigate().back();
 
         driver.close(); // its close curret browser
         driver.quit();  // its close all the browsers open by selenium script
 
-
+     // yenilikeri beklliyoruz...?
 
 
 
