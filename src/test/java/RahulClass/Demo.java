@@ -28,9 +28,9 @@ public class Demo {
         driver.close(); // its close curret browser
         driver.quit();  // its close all the browsers open by selenium script
 
-     // yenilikeri beklliyoruz...?
+  // bakiyom ben yaaa
 
-// grdfhghfjkl;l'kljkhg
+
 
 
     }
